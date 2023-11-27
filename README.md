@@ -5,8 +5,6 @@
 
 ![Profile card](https://res.cloudinary.com/dgm9zfiuo/image/upload/v1698863813/Portfolio%20projects/view_gdfgxd.png)
 
-## Project summary
-
 ### Technologies used
 * HTML
 * CSS
